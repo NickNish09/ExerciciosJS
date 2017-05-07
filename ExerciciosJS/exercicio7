@@ -1,0 +1,1 @@
+São funções que não possuem nome, sendo normalmente uma técnica onde se atribui a uma varíavel uma função (por exemplo: var multiplicacao = function(x,y){return x*y}).

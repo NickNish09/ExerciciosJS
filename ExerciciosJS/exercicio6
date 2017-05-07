@@ -1,0 +1,1 @@
+$("elemento html a ser escolhido").addClass("classe a ser adicionada")
